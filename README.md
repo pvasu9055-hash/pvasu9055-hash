@@ -27,4 +27,4 @@ Java | HTML | CSS | Git | GitHub
 ---
 
 ⭐ Thanks for visiting my profile!
-![snake animation](https://github.com/pvasu9055-hash/pvasu9055-hash/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/pvasu9055-hash/pvasu9055-hash/output/github-contribution-grid-snake.svg)
