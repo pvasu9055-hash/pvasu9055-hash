@@ -18,12 +18,6 @@ Java | HTML | CSS | Git | GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pvasu9055-hash&theme=tokyonight)
