@@ -3,27 +3,33 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Software Engineering Student
-- ☕ Learning Java & Web Development
-- 🚀 Building Projects on GitHub
-- 📚 Improving coding skills every day
+## 🚀 About Me
+
+- 🎓 Software Engineering Student  
+- ☕ Learning Java & Web Development  
+- 🚀 Building Projects on GitHub  
+- 📚 Improving coding skills every day  
 
 ---
 
-### 🛠 Skills
+## 🛠 Skills
+
 Java | HTML | CSS | Git | GitHub
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=tokyonight)
+
 ---
 
-### 🔥 GitHub Streak
-![streak](https://streak-stats.demolab.com/?user=pvasu9055-hash&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pvasu9055-hash&theme=tokyonight)
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
 ![snake animation](https://raw.githubusercontent.com/pvasu9055-hash/pvasu9055-hash/output/github-contribution-grid-snake.svg)
