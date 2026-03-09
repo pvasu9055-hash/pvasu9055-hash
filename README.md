@@ -17,7 +17,7 @@ Java | HTML | CSS | Git | GitHub
 ---
 
 ### 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=tokyonight)
+![stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=tokyonight)
 
 ---
 
