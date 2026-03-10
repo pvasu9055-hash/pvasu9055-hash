@@ -6,10 +6,10 @@ Software Engineering Student | Java Learner
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Student  
-- 🌱 Learning Java & Web Development  
-- 💻 Building Projects on GitHub  
-- 📈 Improving coding skills every day  
+- 🎓 Software Engineering Student
+- 🌱 Learning Java & Web Development
+- 💻 Building Projects on GitHub
+- 📈 Improving coding skills every day
 
 ---
 
