@@ -24,17 +24,17 @@ Java | HTML | CSS | JavaScript | Git | GitHub
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=radical&cache_seconds=86400)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=pvasu9055-hash&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pvasu9055-hash&theme=github_dark)
 
 ---
 
 ## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact&theme=radical&cache_seconds=86400)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pvasu9055-hash&theme=github_dark)
+
+---
+
+## 🔥 Commit Activity
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pvasu9055-hash&theme=github_dark)
 
 ---
 
