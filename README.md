@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Penkey Sri Vasu</h1>
-<h3 align="center">Software Engineering Student | Java Learner</h3>
+# Hi 👋 I'm Penkey Sri Vasu
+### Software Engineering Student | Java Learner
 
 ---
 
 ## 🚀 About Me
-
 - 🎓 Software Engineering Student
 - 🌱 Learning Java & Web Development
 - 💻 Building Projects on GitHub
@@ -13,14 +12,12 @@
 ---
 
 ## 🌐 My Project
-
 SkillGap Analyzer  
 https://skillgap-frontend-eight.vercel.app
 
 ---
 
 ## 🛠 Skills
-
 Java | HTML | CSS | JavaScript | Git | GitHub
 
 ---
