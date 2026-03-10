@@ -1,29 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sri Vasu</h1>
-<h3 align="center">💻 Software Engineering Student | Java Learner</h3>
+<h1 align="center">Hi 👋, I'm Penkey Sri Vasu</h1>
+<h3 align="center">Software Engineering Student | Java Learner</h3>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student  
-- ☕ Learning Java & Web Development  
-- 🚀 Building Projects on GitHub  
-- 📚 Improving coding skills every day  
+- 🌱 Learning **Java & Web Development**  
+- 💻 Building Projects on GitHub  
+- 📈 Improving coding skills every day  
+
+---
+
+## 🌐 Live Project
+
+### SkillGap Analyzer
+🔗 https://skillgap-frontend-eight.vercel.app
+
+A web application that helps users analyze their skills and identify learning gaps.
 
 ---
 
 ## 🛠 Skills
 
-Java | HTML | CSS | Git | GitHub
+Java | HTML | CSS | JavaScript | Git | GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pvasu9055-hash&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pvasu9055-hash&theme=radical)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📊 Top Languages
 
-![snake animation](https://raw.githubusercontent.com/pvasu9055-hash/pvasu9055-hash/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact&theme=radical)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=pvasu9055-hash&label=Profile%20Views&color=blue&style=flat)
+
+---
+
+⭐ From **Penkey Sri Vasu**
