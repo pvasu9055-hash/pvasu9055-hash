@@ -32,29 +32,24 @@ https://skillgap-frontend-eight.vercel.app
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=pvasu9055-hash&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pvasu9055-hash&theme=github_dark)
 
 ---
 
 ## 📊 Top Languages
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pvasu9055-hash&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact&theme=radical)
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=pvasu9055-hash&theme=radical)
 
 ---
 
 ## 🐍 Contribution Snake
-
 ![Snake animation](https://github.com/pvasu9055-hash/pvasu9055-hash/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 👀 Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=pvasu9055-hash&label=Profile%20Views&color=blue&style=flat)
