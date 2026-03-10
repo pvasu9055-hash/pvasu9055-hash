@@ -16,7 +16,7 @@
 ## 🌐 Live Project
 
 🚀 SkillGap Analyzer  
-🔗 https://skillgap-frontend-eight.vercel.app
+https://skillgap-frontend-eight.vercel.app
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pvasu9055-hash&show_icons=true&theme=radical)
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact&theme=radical)
 
 ---
 
