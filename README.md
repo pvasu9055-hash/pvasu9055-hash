@@ -39,7 +39,7 @@ Java | HTML | CSS | JavaScript | Git | GitHub
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact&theme=radical)
 
 ---
 
@@ -51,4 +51,4 @@ Java | HTML | CSS | JavaScript | Git | GitHub
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=pvasu9055-hash&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pvasu9055-hash&label=Profile%20Views&color=blue&style=flat)
