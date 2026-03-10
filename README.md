@@ -5,19 +5,17 @@
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Student  
-- 🌱 Learning **Java & Web Development**  
-- 💻 Building Projects on GitHub  
-- 📈 Improving coding skills every day  
+- 🎓 Software Engineering Student
+- 🌱 Learning Java & Web Development
+- 💻 Building Projects on GitHub
+- 📈 Improving coding skills every day
 
 ---
 
-## 🌐 Live Project
+## 🌐 My Project
 
-### SkillGap Analyzer
-🔗 https://skillgap-frontend-eight.vercel.app
-
-A web application that helps users analyze their skills and identify learning gaps.
+SkillGap Analyzer  
+https://skillgap-frontend-eight.vercel.app
 
 ---
 
@@ -41,14 +39,16 @@ Java | HTML | CSS | JavaScript | Git | GitHub
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvasu9055-hash&layout=compact)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/pvasu9055-hash/pvasu9055-hash/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pvasu9055-hash&label=Profile%20Views&color=blue&style=flat)
-
----
-
-⭐ From **Penkey Sri Vasu**
