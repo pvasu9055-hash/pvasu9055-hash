@@ -16,7 +16,7 @@
 ## 🌐 Live Project
 
 🚀 SkillGap Analyzer  
-https://skillgap-frontend-eight.vercel.app
+https://analyzer.vasutech.online
 
 ---
 
