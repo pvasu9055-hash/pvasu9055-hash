@@ -1,7 +1,7 @@
 ```
 ############********#######*******+=++=+=============-  ..-#     pvasu9055-hash / README.md
 #########*************************+==================:    -#     
-%%%%%####*************************+==================:    :*     vasu@parul-university
+%%%%%####*************************+==================:    :*     pvasu9055@gmail.com
 @@@@@@@@@%%%%%####***********+*+++=--================:    :*     -----------------------
 @@@@@@@@@@@@@@@@%##*******++=+-=-=-::----==========--:    :*     OS: ....................... Windows, Linux
 @@@@@@%%@@@@@@%%%##*****+-=++==*=-=**+-++=-----------.    :*     Host: ..................... Parul University, Vadodara
@@ -9,20 +9,20 @@
 %@@@@@%%@@@@@%%%%##*****#%%%@#%#%##*+*#++++-:--------.    :*     Kernel: ................... B.Tech CSE (2023-2027), CGPA 7.25
 @@@@@@%%@@@@@%%%%#*****#@@@@@#+*%#+*%#@%#%++---------.    .*     IDE: ...................... VS Code, IntelliJ IDEA
 @@@@@@%%@@@@@%%%%#*****#%%@%+--**--#%@%%@@##+--------.    .*     
-@@@@@@%%@@@@@%%%%#*******+*:-*#%%#+*#%@%@@@%*------:-.    .*     Languages.Programming: .... Java, Python, JavaScript, SQL
-@@@@@@%%@@@@%%%%%#*****=-+=. -#%%#+*%%%#%@@#-:---::::.    .*     Languages.Web: ............ HTML, CSS, TypeScript
-@@%@@@%##%%@@%%%##*****==##=-:+*+::#%#*+#%+-:-:-:::::.    .+     Frameworks: ............... Spring Boot, React.js, Node.js, Express.js
-%%%###*#%%@@@%%%##*****#@@%#*####+=++++=-::--::::::::.    .+     Databases: ................ PostgreSQL, MySQL, MongoDB
-###**#%%%@@%%%%%##*******@@%*####%%#++=::::::::::::::.    .*     Cloud & DevOps: ........... AWS, GCP (Cloud Run), Docker, Vercel, Render
-##%##%%#%#*+**#%%#*****++*@@%**%**###*-::::::::::::::     .*     Languages (Human): ........ English, Hindi, Telugu
-#**%%#%##***##%%##**++:.++*%@@@@%%%#=::::::::::::::::     .+     
-%%####%%####%%#*+++==*: =*++*#%%%##=:::::::::::::::::     .+     Contact.Email: ............ pvasu9055@gmail.com
-@@@@%#%#*++=++++++#++*=  +**++++*%@+%*=-:::::::::::::     .+     Contact.GitHub: ........... github.com/pvasu9055-hash
-@%%%@@@%+++*****++***#+  .-+*+**%@+:@@@@%*=-:::::::::     .*     Contact.Portfolio: ........ vasutech.online
-@%##%@%@@####****#***#*::. .+****=:-%@@@@@@@%*=::::::     .+     Contact.Location: ......... Vadodara, India
-@@@@@%@@@%%%###**#***##-... .+*=..:=@@@@@@@@@@@%:::::     .*     
-@@@@%@@@@@@@%%%#**%**##=.... .- ..::@@@@@@@@@@@@-.:::     .*     GitHub Stats
-@@@@@%@@@@@@%%@%#*##*#%+ ....  ....:%@@@@@@@@@@@-.:::     .*     Repos: ... 18   Stars: ....... 8
+@@@@@@%%@@@@@%%%%#*******+*:-*#%%#+*#%@%@@@%*------:-.    .*     Languages.Programming: .... Java, JavaScript, TypeScript, HTML
+@@@@@@%%@@@@%%%%%#*****=-+=. -#%%#+*%%%#%@@#-:---::::.    .*     Frameworks: ............... Spring Boot, React.js, Node.js, Express.js
+@@%@@@%##%%@@%%%##*****==##=-:+*+::#%#*+#%+-:-:-:::::.    .+     Databases: ................ PostgreSQL, MySQL, MongoDB
+%%%###*#%%@@@%%%##*****#@@%#*####+=++++=-::--::::::::.    .+     Cloud & DevOps: ........... AWS, GCP (Cloud Run), Docker, Vercel, Render
+###**#%%%@@%%%%%##*******@@%*####%%#++=::::::::::::::.    .*     Languages (Human): ........ English, Hindi, Telugu
+##%##%%#%#*+**#%%#*****++*@@%**%**###*-::::::::::::::     .*     
+#**%%#%##***##%%##**++:.++*%@@@@%%%#=::::::::::::::::     .+     Contact.GitHub: ........... github.com/pvasu9055-hash
+%%####%%####%%#*+++==*: =*++*#%%%##=:::::::::::::::::     .+     Contact.Portfolio: ........ vasutech.online
+@@@@%#%#*++=++++++#++*=  +**++++*%@+%*=-:::::::::::::     .+     Contact.LinkedIn: ......... linkedin.com/in/penkey-srivasu-2b606635a
+@%%%@@@%+++*****++***#+  .-+*+**%@+:@@@@%*=-:::::::::     .*     Contact.Location: ......... Vadodara, India
+@%##%@%@@####****#***#*::. .+****=:-%@@@@@@@%*=::::::     .+     
+@@@@@%@@@%%%###**#***##-... .+*=..:=@@@@@@@@@@@%:::::     .*     GitHub Stats
+@@@@%@@@@@@@%%%#**%**##=.... .- ..::@@@@@@@@@@@@-.:::     .*     Repos: ... 18   Stars: ....... 8
+@@@@@%@@@@@@%%@%#*##*#%+ ....  ....:%@@@@@@@@@@@-.:::     .*     
 @@@@@@@@@@@@@%%@@%#%##%*  ...  ....:#@@@@@@@@@@@+.:::     :*     
 @@@@@@@@@@@@@@@@@@%%%###  ..   ....-#@@@@@@@@@@@*.:::     :*     
 @@@@@@@@@@@@@@@@@@@%@%%%-  .   ....-%@@@@@@@@@@@#.:::     :*     
@@ -63,7 +63,7 @@ Software Engineering student with hands-on experience designing, building, and d
 
 ## 🛠️ Skills
 
-**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Databases:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
