@@ -1,55 +1,32 @@
-# Hi 👋 I'm Penkey Sri Vasu
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Java+Developer;Learning+Web+Development;Building+Projects+on+GitHub&center=true&width=500&height=50)
-
----
-
-## 🚀 About Me
-
-- 🎓 Software Engineering Student
-- 🌱 Learning Java & Web Development
-- 💻 Building Projects on GitHub
-- 📈 Improving coding skills every day
-
----
-
-## 🌐 Live Project
-
-🚀 SkillGap Analyzer  
-https://analyzer.vasutech.online
-
----
-
-## 🛠 Skills
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pvasu9055-hash&theme=github_dark)
-
----
-
-## 📊 Top Languages
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pvasu9055-hash&theme=github_dark)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=pvasu9055-hash&theme=radical)
-
----
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/pvasu9055-hash/pvasu9055-hash/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=pvasu9055-hash&label=Profile%20Views&color=blue&style=flat)
+ ```
+############********#######*******+=++=+=============-  ..-#     pvasu9055-hash / README.md
+#########*************************+==================:    -#     
+%%%%%####*************************+==================:    :*     vasu@parul-university
+@@@@@@@@@%%%%%####***********+*+++=--================:    :*     -----------------------
+@@@@@@@@@@@@@@@@%##*******++=+-=-=-::----==========--:    :*     OS: ....................... Windows, Linux
+@@@@@@%%@@@@@@%%%##*****+-=++==*=-=**+-++=-----------.    :*     Host: ..................... Parul University, Vadodara
+@@@@@@%%@@@@@%%%%##****+=*#**++++*##++=*+------------.    :*     Role: ..................... Full Stack Developer (Freelance)
+%@@@@@%%@@@@@%%%%##*****#%%%@#%#%##*+*#++++-:--------.    :*     Kernel: ................... B.Tech CSE (2023-2027), CGPA 7.25
+@@@@@@%%@@@@@%%%%#*****#@@@@@#+*%#+*%#@%#%++---------.    .*     IDE: ...................... VS Code, IntelliJ IDEA
+@@@@@@%%@@@@@%%%%#*****#%%@%+--**--#%@%%@@##+--------.    .*     
+@@@@@@%%@@@@@%%%%#*******+*:-*#%%#+*#%@%@@@%*------:-.    .*     Languages.Programming: .... Java, Python, JavaScript, SQL
+@@@@@@%%@@@@%%%%%#*****=-+=. -#%%#+*%%%#%@@#-:---::::.    .*     Languages.Web: ............ HTML, CSS, TypeScript
+@@%@@@%##%%@@%%%##*****==##=-:+*+::#%#*+#%+-:-:-:::::.    .+     Frameworks: ............... Spring Boot, React.js, Node.js, Express.js
+%%%###*#%%@@@%%%##*****#@@%#*####+=++++=-::--::::::::.    .+     Databases: ................ PostgreSQL, MySQL, MongoDB
+###**#%%%@@%%%%%##*******@@%*####%%#++=::::::::::::::.    .*     Cloud & DevOps: ........... AWS, GCP (Cloud Run), Docker, Vercel, Render
+##%##%%#%#*+**#%%#*****++*@@%**%**###*-::::::::::::::     .*     Languages (Human): ........ English, Hindi, Telugu
+#**%%#%##***##%%##**++:.++*%@@@@%%%#=::::::::::::::::     .+     
+%%####%%####%%#*+++==*: =*++*#%%%##=:::::::::::::::::     .+     Projects: ................. DocSign, CivilianShield, AI Code Review Assistant
+@@@@%#%#*++=++++++#++*=  +**++++*%@+%*=-:::::::::::::     .+     
+@%%%@@@%+++*****++***#+  .-+*+**%@+:@@@@%*=-:::::::::     .*     Contact.Email: ............ pvasu9055@gmail.com
+@%##%@%@@####****#***#*::. .+****=:-%@@@@@@@%*=::::::     .+     Contact.GitHub: ........... github.com/pvasu9055-hash
+@@@@@%@@@%%%###**#***##-... .+*=..:=@@@@@@@@@@@%:::::     .*     Contact.Portfolio: ........ vasutech.online
+@@@@%@@@@@@@%%%#**%**##=.... .- ..::@@@@@@@@@@@@-.:::     .*     Contact.Location: ......... Vadodara, India
+@@@@@%@@@@@@%%@%#*##*#%+ ....  ....:%@@@@@@@@@@@-.:::     .*     
+@@@@@@@@@@@@@%%@@%#%##%*  ...  ....:#@@@@@@@@@@@+.:::     :*     GitHub Stats
+@@@@@@@@@@@@@@@@@@%%%###  ..   ....-#@@@@@@@@@@@*.:::     :*     Repos: ... 5+   Commits: ... 100+
+@@@@@@@@@@@@@@@@@@@%@%%%-  .   ....-%@@@@@@@@@@@#.:::     :*     
+@@@%@@@@@@@@@@@@@@@@@@#%*  .   ....-%@@@@@@@@@@@%::::     :*     
+#%@@@@@@@@@@@@@@@@@@@@@%#: .   ...:=@@@@@@@@@@@@@-.::     -*     
+*#@@@@@@@@@@@@@@@@@@@@@%%: .   ...-+@@@@@@@@@@@@@+.::    .=#     
+```
